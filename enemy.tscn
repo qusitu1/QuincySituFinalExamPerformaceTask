@@ -6,6 +6,7 @@
 size = Vector2(671, 1019)
 
 [node name="Enemy" type="RigidBody2D"]
+position = Vector2(828, 380)
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_2ytml")
